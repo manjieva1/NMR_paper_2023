@@ -7,3 +7,6 @@ Folder "Basis_Sets_information" has information about basis sets used in control
 It has old information as well as updated information. Updated basis sets used in the paper are located inside modified_basis_sets folders. 
 
 Abbreviations rm2 and rm4, rm8 mean radial multiplier = 2, 4, 8 respectively.
+
+
+File Excel_Tables_NMR_Paper _for_Plots.xlsx contails all tables with calculated data as well as its analysis for creating plots. 
